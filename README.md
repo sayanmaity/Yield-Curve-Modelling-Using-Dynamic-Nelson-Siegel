@@ -1,0 +1,4 @@
+# Yield-Curve-Modelling-Using-Dynamic-Nelson-Siegel
+
+The aim of this paper is to estimate dynamic Nelson Siegel yield curve to model term structure for Indian G-Sec market. The movements of the yield curve depend upon three latent variable factors. This paper models this in sample factors and forecasts the yield out of the sample. Also, this paper looks for any structural break in the latent variable over time.
+We have two models to estimate the dynamic yield curve: two-step process and one-step process using Kalman filter and compared the results including estimated coefficients and error variances We use Minimum Mean Square Error and Monte Carlo simulation for out of sample fore casting. To detect structural break use  Bai-Perron (2003)’s test for L+1 vs L sequentially determined structural breaks.
